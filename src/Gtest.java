@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @ author zhu
  * @ date 2020/6/10 19:11
- * -
+ * -试试咋提交到Github
  */
 
 public class Gtest {
